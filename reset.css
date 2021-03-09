@@ -6,10 +6,6 @@
 *::after {
   box-sizing: border-box;
 }
-a {
-  color: inherit;
-  text-decoration: none;
-}
 input,
 button {
   font-family: inherit;
@@ -18,12 +14,11 @@ ol {
   list-style: none;
 }
 table {
-  width: 500px;
   border-collapse: collapse;
   border-spacing: 0;
   table-layout: auto;
 }
 img {
   max-width: 100%;
-  width: 500px;
+  width: 400px;
 }
